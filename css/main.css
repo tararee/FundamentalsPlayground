@@ -1,7 +1,10 @@
 body{
     background-color: #FFA07A;
 }
-
+.project{
+  height:300px;
+  width: 300px;
+}
 /*Nav Bar*/
 
 .nav ul{
@@ -26,6 +29,10 @@ body{
 .nav li a:hover {
     background-color: #66CDAA;
 }
+
+
+
+<hr>
 /*CSS for monster*/
 .head{
     width: 10px;
