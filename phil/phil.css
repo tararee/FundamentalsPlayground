@@ -1,0 +1,65 @@
+/*--go back and try this to see if it works--*/
+/*#phil, #phil2, #pill, #wordbubble, #philup, #phildown, #phildissolve, #philgivesup{
+  display: none;
+}*/
+#pillappeardiv,#phildissolvediv, #philupdiv, #phildowndiv, #philgivesupdiv,#princessappearsdiv,#princesstakespilldiv, #princesspartiesdiv,#but {
+  display: none
+}
+
+#phil {display: none
+}
+
+#pill {
+  display: none;
+}
+#whoisthat {
+  display: none
+}
+#phil2 {
+  display: none;
+}
+
+#phildissolve {
+  display: none;
+}
+#dissolve{
+  display: none;
+}
+#philup {
+  display: none;
+}
+#phildown {
+  display: none;
+}
+#wordbubble {
+  display: none;
+}
+
+#philgivesup {
+  display:none
+}
+#philgivesupeffect {
+  transform: rotate(180deg);
+}
+#princessappearseffect {
+  display:none
+}
+#princessappears {
+  display:none
+}
+#princesstakespill{display:none}
+
+#princesspicks {
+  display:none   
+}
+#princesspickseffect{
+  display:none
+}
+
+#princesseats {
+  display:none
+}
+
+#princessparty {
+  display:none
+}
